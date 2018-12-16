@@ -4,7 +4,7 @@
 >
 > 视频时长：66 分钟
 >
-> 链接： https://segmentfault.com/ls/1650000017333471/l/1500000016299614
+> 链接： [Python 的字符串和列表](https://segmentfault.com/l/1500000016299614?r=bPAnfw)
 
 # 大纲
 

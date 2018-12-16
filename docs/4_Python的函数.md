@@ -4,7 +4,7 @@
 >
 > 视频时长：70 分钟
 >
-> 链接： https://segmentfault.com/ls/1650000017333471/l/1500000016456649
+> 链接： [Python 的函数](https://segmentfault.com/ls/1650000017333471/l/1500000016456649?r=bPAnfw)
 
 # 大纲
 

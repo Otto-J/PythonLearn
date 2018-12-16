@@ -4,7 +4,7 @@
 >
 > 视频时长：72 分钟
 >
-> 链接： https://segmentfault.com/l/1500000016371649
+> 链接： [Python 的控制语句](https://segmentfault.com/l/1500000016371649?r=bPAnfw)
 
 从 5 分 30 秒开始讲，7 分 30 秒开始正文。
 
