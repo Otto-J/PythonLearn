@@ -19,3 +19,5 @@
 -   [6 Python 的常用数据结构](docs/6_Python的常用数据结构.md)
 
 -   [7 Python 的面向对象](docs/7_Python的面向对象.md)
+
+-   [8 Python 的异常处理](docs/8_Python的异常处理.md)
