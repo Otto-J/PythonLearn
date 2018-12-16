@@ -11,3 +11,5 @@
 -   [2 Python 的字符串和列表](docs/2_Python的字符串和列表.md)
 
 -   [3 Python 的控制语句](docs/3_Python的控制语句.md)
+
+-   [4 Python 的函数](docs/4_Python的函数.md)
