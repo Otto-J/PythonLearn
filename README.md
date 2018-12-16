@@ -15,3 +15,5 @@
 -   [4 Python 的函数](docs/4_Python的函数.md)
 
 -   [5 Python 的单元测试](docs/5_Python的单元测试.md)
+
+-   [6 Python 的常用数据结构](docs/6_Python的常用数据结构.md)
