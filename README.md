@@ -17,3 +17,5 @@
 -   [5 Python 的单元测试](docs/5_Python的单元测试.md)
 
 -   [6 Python 的常用数据结构](docs/6_Python的常用数据结构.md)
+
+-   [7 Python 的面向对象](docs/7_Python的面向对象.md)
